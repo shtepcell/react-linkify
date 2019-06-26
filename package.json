@@ -6,7 +6,9 @@
   "author": "Tasti Zakarie",
   "license": "MIT",
   "main": "dist/index.js",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/tasti/react-linkify.git"
@@ -30,7 +32,7 @@
     "test": "BABEL_JEST_STAGE=0 jest --testPathIgnorePatterns /dist/"
   },
   "dependencies": {
-    "linkify-it": "^2.0.3"
+    "linkify-it": "2.1.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
