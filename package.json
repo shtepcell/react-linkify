@@ -30,8 +30,7 @@
     "test": "BABEL_JEST_STAGE=0 jest --testPathIgnorePatterns /dist/"
   },
   "dependencies": {
-    "linkify-it": "^2.0.3",
-    "tlds": "^1.199.0"
+    "linkify-it": "^2.0.3"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
